@@ -9,5 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    //테스트 확인용입니다.
+    // 컴공설 개싫다 ㄹㅇ..
 }
